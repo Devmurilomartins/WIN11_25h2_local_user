@@ -7,7 +7,7 @@
 
 ## Como fazer :  
 1. Crie uma pasta "Script" e  depois faca download do arquivo [CreateUserAndFixOOBE.cmd](https://github.com/Devmurilomartins/WIN11_25h2_local_user/blob/main/script/CreateUserAndFixOOBE.cmd)
-2. Abra com seu editor de .ISO [anybrun](https://www.anyburn.com/download.php) o arquivo .ISO da instalacao do windows, e adicione a pasta "Script"
+2. Abra com seu editor de .ISO ,o arquivo .ISO da instalacao do windows, e adicione a pasta "Script"
 3. Na tela de instalacao do windows abra o terminal como Administrador pressionando as teclas "shift + F10"
 4. navegue ate a particao em que se encontra a instalacao do windows *(geralmente em D:\)* procure pela pasta "Script" e abra ela
 5. Rode o script pelo terminal, digite seu usuario e senha e pronto, aguarde a reiniciar.  
